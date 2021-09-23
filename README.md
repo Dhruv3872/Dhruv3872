@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Dhruv Parimal Dave available on GitHub as @Dhruv3872.
+- 👀 I’m interested in Java, JavaScript, Python.
+- 🌱 I’m currently learning JQuery, Python.

@@ -1,3 +1,9 @@
 - 👋 Hi, I’m Dhruv Urmila Parimal Dave available on GitHub as @Dhruv3872.
-- 👀 I’m interested in Java, JavaScript, Python.
-- 🌱 I’m currently learning MySQL, revising Multi-threading in java by making a project here on GitHub.
+- 👀 I’m interested in Java, Python, JavaScript.
+- My projects on GitHub includes
+-   HTML, CSS, JavaScript,
+-   PHP, Java, Python,
+-   MongoDB.
+- 🌱 I’m currently learning MySQL, revising Python. I will do a project and put it here while doing it here on GitHub.
+- I have done certificate courses in Java, & in Python.
+- I do not have any work experience as a Developer. And this will be true until I get a job as one.

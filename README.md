@@ -6,4 +6,3 @@
 -   MongoDB.
 - 🌱 I’m currently learning MySQL, revising Python. I will do a project and put it here while doing it here on GitHub.
 - I have done certificate courses in Java, & in Python.
-- I do not have any work experience as a Developer. And this will be true until I get a job as one.
